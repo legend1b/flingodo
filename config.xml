@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns   = "http://www.w3.org/ns/widgets"
-  id          = "flingodoo.com"
-  versionCode = "20"
-  version     = "4.1.0" >
+  id          = "flingodood.com"
+  versionCode = "30"
+  version     = "4.2.0" >
 
   <!-- versionCode is optional and Android only -->
 
-  <name>flingo doo</name>
+  <name>flingo doodoo</name>
 
   <description>
     An excellent student app.
   </description>
 
   <author href="https://build.phonegap.com" email="support@phonegap.com">
-    FlingodooHub
+    FlingodoodHub
   </author>
 
   <!-- We'll include the Barcode plugin as an example -->
